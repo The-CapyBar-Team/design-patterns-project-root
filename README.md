@@ -6,7 +6,7 @@
 
 ## Prepare the Repo
 
-To clone and set up the repo you can:
+To clone and set up the repo you can choose ONE of the following options:
 
 1. Recursively clone the repo
 ```bash
