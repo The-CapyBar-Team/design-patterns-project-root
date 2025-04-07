@@ -1,0 +1,3 @@
+[submodule "services/basket-service"]
+	path = services/basket-service
+	url = git@github.com:The-CapyBar-Team/design-patterns-project-basket-service.git
