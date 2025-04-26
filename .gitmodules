@@ -1,3 +1,9 @@
 [submodule "services/basket-service"]
 	path = services/basket-service
 	url = git@github.com:The-CapyBar-Team/design-patterns-project-basket-service.git
+[submodule "services/api-gateway"]
+	path = services/api-gateway
+	url = git@github.com:The-CapyBar-Team/design-paterns-project-api-gateway.git
+[submodule "services/all-products"]
+	path = services/all-products
+	url = git@github.com:The-CapyBar-Team/design-patterns-project-all-products.git
